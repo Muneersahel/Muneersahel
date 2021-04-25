@@ -22,8 +22,10 @@
 ---
 
 :zap: GitHub Stats
+[![Muneersahel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muneersahel)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" alt="Muneersahel's GitHub Stats" src="https://github-readme-stats.Muneersahel.vercel.app/api?username=Muneersahel&show_icons=true&hide_border=true" />
+
+<!-- <img align="left" alt="Muneersahel's GitHub Stats" src="https://github-readme-stats.Muneersahel.vercel.app/api?username=Muneersahel&show_icons=true&hide_border=true" /> -->
 
 
 [website]: https://hudumadigital.com
