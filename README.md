@@ -21,12 +21,10 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
-  <img align="left" alt="Muneersahel's GitHub Stats" src="https://github-readme-stats.Muneersahel.vercel.app/api?username=Muneersahel&show_icons=true&hide_border=true" />
+<img align="left" alt="Muneersahel's GitHub Stats" src="https://github-readme-stats.Muneersahel.vercel.app/api?username=Muneersahel&show_icons=true&hide_border=true" />
 
-</details>
 
 [website]: https://hudumadigital.com
 [twitter]: https://twitter.com/Muneersahel
