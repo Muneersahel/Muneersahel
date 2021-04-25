@@ -30,7 +30,7 @@
 
 [website]: https://hudumadigital.com
 [twitter]: https://twitter.com/Muneersahel
-[youtube]: https://youtube.com/Muneersahel
+[youtube]: https://www.youtube.com/channel/UCOJ-_fS7ZioB9uKVixF5AJw
 [instagram]: https://instagram.com/muneersahel
 [linkedin]: https://www.linkedin.com/in/munir-said-847347184/
 
