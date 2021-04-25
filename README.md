@@ -32,4 +32,5 @@
 [twitter]: https://twitter.com/Muneersahel
 [youtube]: https://youtube.com/Muneersahel
 [instagram]: https://instagram.com/muneersahel
-[linkedin]: https://linkedin.com/in/Muneersahel
+[linkedin]: https://www.linkedin.com/in/munir-said-847347184/
+
