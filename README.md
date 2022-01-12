@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Muneersahel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMuneersahel&screen_name=Muneersahel)
 
-## I'm a Telecom Student and Developer!!
+## I'm a Telecom Student and Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -26,7 +26,7 @@
 ![](https://komarev.com/ghpvc/?username=Muneersahel&label=PROFILE+VIEWS)
 
 
-[website]: https://hudumadigital.com
+[website]: https://muneersahel.com
 [twitter]: https://twitter.com/Muneersahel
 [youtube]: https://www.youtube.com/channel/UCOJ-_fS7ZioB9uKVixF5AJw
 [instagram]: https://instagram.com/muneersahel
