@@ -5,7 +5,7 @@
 ## I'm a Telecom Student and Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
