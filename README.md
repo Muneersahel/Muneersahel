@@ -1,8 +1,9 @@
 ### Hi there, I'm Munir - aka [Muneersahel][website] 👋
+[![committers.top badge](https://user-badge.committers.top/tanzania_private/Muneersahel.svg)](https://user-badge.committers.top/tanzania_private/Muneersahel)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Muneersahel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMuneersahel&screen_name=Muneersahel)
 
-## I'm a Telecom Student and Software Developer!!
+## I'm a Telecom Engineer and Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects
