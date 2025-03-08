@@ -7,8 +7,7 @@
 ## Telecom Engineer and Software Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Contribute more to Open Source projects
-- 💬 Ask me about Angular, Nestjs, Nodejs, Ionic and Capacitor
+- 💬 Ask me about Angular, Nestjs, Nodejs, Python, Ionic and Capacitor
 
 
 ## 🌐 Socials:
