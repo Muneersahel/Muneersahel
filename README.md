@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a Telecom Engineer and Software Developer passionate about creating impactful projects.  
 🌱 Currently learning **everything** 🤣.  
-💬 Ask me about **Angular, NestJS, Node.js, Python, Ionic, and Capacitor**.  
+💬 Ask me about **Angular, NestJS, Node.js, Python, Java (Spring Boot), Ionic, and Capacitor**.  
 
 ---
 
